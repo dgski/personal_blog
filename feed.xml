@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Technical Blog By David Gorski</title>
-    <link href="https://dgski.github.io/personal_blog/feed.xml" rel="self" />
-    <link href="https://dgski.github.io/personal_blog" />
+    <link href="https://blog.davidgorski.ca/feed.xml" rel="self" />
+    <link href="https://blog.davidgorski.ca" />
     <updated>2023-03-05T22:01:16-05:00</updated>
     <author>
         <name>David Gorski</name>
     </author>
-    <id>https://dgski.github.io/personal_blog</id>
+    <id>https://blog.davidgorski.ca</id>
 
     <entry>
         <title> Collector Functions in Scheme</title>
         <author>
             <name>David Gorski</name>
         </author>
-        <link href="https://dgski.github.io/personal_blog/collector-functions-in-scheme.html"/>
-        <id>https://dgski.github.io/personal_blog/collector-functions-in-scheme.html</id>
+        <link href="https://blog.davidgorski.ca/collector-functions-in-scheme.html"/>
+        <id>https://blog.davidgorski.ca/collector-functions-in-scheme.html</id>
             <category term="Technology"/>
 
         <updated>2023-03-05T22:01:16-05:00</updated>
