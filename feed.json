@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://blog.davidgorski.ca/the-waldorf-astoria-hotel-review.html",
-            "url": "https://blog.davidgorski.ca/the-waldorf-astoria-hotel-review.html",
+            "id": "https://blog.davidgorski.ca/the-waldorf-astoria-hotel-review/",
+            "url": "https://blog.davidgorski.ca/the-waldorf-astoria-hotel-review/",
             "title": "The Waldorf Astoria - Hotel Review",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://blog.davidgorski.ca/media/posts/2/F116A2E9-4ACA-4B26-8575-C40E771286AA_1_105_c.jpeg\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://blog.davidgorski.ca/media/posts/2/responsive/F116A2E9-4ACA-4B26-8575-C40E771286AA_1_105_c-xs.jpeg 300w ,https://blog.davidgorski.ca/media/posts/2/responsive/F116A2E9-4ACA-4B26-8575-C40E771286AA_1_105_c-sm.jpeg 480w ,https://blog.davidgorski.ca/media/posts/2/responsive/F116A2E9-4ACA-4B26-8575-C40E771286AA_1_105_c-md.jpeg 749w ,https://blog.davidgorski.ca/media/posts/2/responsive/F116A2E9-4ACA-4B26-8575-C40E771286AA_1_105_c-xl.jpeg 1200w\"  alt=\"\" width=\"1024\" height=\"769\"></figure>\n<p>I have recently stayed at this wonderful hotel. Truly I love it.</p>\n<p> </p>",
             "author": {
@@ -23,8 +23,8 @@
             "date_modified": "2023-05-31T23:48:17-04:00"
         },
         {
-            "id": "https://blog.davidgorski.ca/less-thinking-more-doing.html",
-            "url": "https://blog.davidgorski.ca/less-thinking-more-doing.html",
+            "id": "https://blog.davidgorski.ca/less-thinking-more-doing/",
+            "url": "https://blog.davidgorski.ca/less-thinking-more-doing/",
             "title": "Less Thinking; More Doing",
             "content_html": "<p>I am cursed with the pathological trait of intense over analysis. I have many ideas. But for an idea of mine to the surface and become 'real', it must complete a mental obstacle course equivalent to a medieval gauntlet.</p>\n<p>After a lot of thinking (ironically) I have decided go act more. One such act is the creation of this blog and first blog post.</p>\n<p>I am starting with stream-of-consiouness, low-effort writing. As I get more comfortable I hope to unload more serious and more fun topics. Signing off for the first time. DG.</p>",
             "author": {
