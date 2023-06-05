@@ -1,5 +1,7 @@
 /*Custom CSS Goes Here*/
 
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
 :root {
    --spacing-company: 3rem;
    --font-weight: 400;
